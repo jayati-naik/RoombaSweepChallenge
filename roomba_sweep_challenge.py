@@ -1,7 +1,6 @@
 # Roomba Sweep Challenge
 # In Roomba Sweep Challenge, Identify Irona's next move.
-# Read README file for deatiled description.
-#
+# @Author Jayati Naik
 
 from  itertools import chain
 import sys
