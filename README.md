@@ -37,7 +37,7 @@
     5) AS we have already checked the grid for dirty block, we are sure that we have at least on dirty cell present in the grid.
 
   Step 5:
-  * AWS soon as dirty cell is spotted, compare the dirty cell's location with bot's current location to make decision on the direction of bot to Move. If dirty cell is located on:
+  * As soon as dirty cell is spotted, compare the dirty cell's location with bot's current location to make decision on the direction of bot to Move. If dirty cell is located on:
     * TOP RIGHT or BOTTOM RIGHT. Move RIGHT.
     * TOP LEFT or BOTTOM LEFT. Move LEFT.
     * Above X Axis. Move UP.
